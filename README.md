@@ -11,7 +11,7 @@ This repository contains my assignments and practice work completed during the E
 
 **Repository Structure**
 
-datasets/ → Contains datasets used in assignments
+datasets/ → Contains datasets used in assignments, 
 code/ →  practice assignments
 
 
